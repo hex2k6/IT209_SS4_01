@@ -57,4 +57,4 @@ Kiểm tra bằng `git show -s --format="%H%n%P" 29ce9d7` và `git log --graph -
 
 ![Đồ thị commit](git-log-graph.png)
 
-Ảnh trên là ảnh chụp trang hiển thị nguyên văn đầu ra lệnh Git tại thời điểm ngay sau merge, không phải ảnh chụp cửa sổ terminal. Đầu ra cũng được lưu trong `git-log-graph.txt` để đối chiếu.
+Ảnh trên do người dùng cung cấp, hiển thị đầu ra `git log --graph --oneline` tại thời điểm ngay sau merge. Đầu ra cũng được lưu trong `git-log-graph.txt` để đối chiếu.
