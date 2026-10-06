@@ -1,0 +1,8 @@
+*   29ce9d7 ex2: merge feature-update into main after manual conflict resolution
+|\  
+| * 1333ef4 ex2: add product search on feature-update
+* | 69fbeeb ex2: update homepage on main
+|/  
+* aa04209 ex2: add common README base
+* 34519b5 Delete IT209_Session04_Baitap02 directory
+* a8ca85d Add files via upload
